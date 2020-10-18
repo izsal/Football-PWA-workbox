@@ -1,0 +1,17 @@
+{
+    "name": "Footbal-data-Izsal",
+    "short_name": "Footbal-data-Izsal",
+    "description": "Football Information data",
+    "gcm_sender_id": "1019719802688",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#1565C0",
+    "theme_color": "#1565C0",
+    "icons": [
+        {
+            "src": "bola.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
