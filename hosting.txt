@@ -1,0 +1,2 @@
+Github : https://github.com/izsal/Football-PWA-workbox
+Firebase : Tidak bisa install firebase tools di npm entah kenapa
