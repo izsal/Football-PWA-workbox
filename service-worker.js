@@ -24,7 +24,7 @@ if (workbox){
         { url: "/js/idb.js", revision: '1' },
         { url: "/js/database.js", revision: '1' },
       ],{
-        ignoreUrlParametersMatching: [/.*/]
+         ignoreURLParametersMatching: [/.*/]
       });
 
     workbox.routing.registerRoute(
